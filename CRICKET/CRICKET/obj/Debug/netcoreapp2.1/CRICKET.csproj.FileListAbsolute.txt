@@ -1,0 +1,13 @@
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\bin\Debug\netcoreapp2.1\CRICKET.deps.json
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\bin\Debug\netcoreapp2.1\CRICKET.runtimeconfig.json
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\bin\Debug\netcoreapp2.1\CRICKET.runtimeconfig.dev.json
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\bin\Debug\netcoreapp2.1\CRICKET.dll
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\bin\Debug\netcoreapp2.1\CRICKET.pdb
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.csproj.CoreCompileInputs.cache
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.RazorAssemblyInfo.cache
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.RazorAssemblyInfo.cs
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.AssemblyInfoInputs.cache
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.AssemblyInfo.cs
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.RazorTargetAssemblyInfo.cache
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.dll
+C:\Users\ankit.kumar1\source\repos\CRICKET\CRICKET\obj\Debug\netcoreapp2.1\CRICKET.pdb
